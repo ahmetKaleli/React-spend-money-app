@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "name": "shoes",
+        "price": 50,
+        "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/bd43ce71f589498ab6b1aad6009a0e6e_9366/SUPERSTAR_SHOES_White_EG4958_07_standard.jpg"
+    },
+
+    {
+        "id":2,
+        "name": "t-shirt",
+        "price": 30,
+        "image":"https://cdn.dsmcdn.com/mnresize/500/-/ty36/product/media/images/20201222/11/40711050/20878677/1/1_org.jpg"
+    },
+
+    {
+        "id":3,
+        "name": "jeans",
+        "price": 34,
+        "image":"https://static.zara.net/photos///2023/V/0/1/p/7223/023/406/2/w/1920/7223023406_6_1_1.jpg?ts=1671469137496"
+    },
+
+    {
+        "id":4,
+        "name": "glasses",
+        "price": 42,
+        "image":"https://cdn.shopify.com/s/files/1/0109/5012/products/FALCON_SUN_MATTEBLACK_DARKCARBONPOLAR_FRONT_UPDATE-LENS_b5958fc1-b5a8-4524-a1bf-f203b2159a7a.jpg?v=1684437814"
+    }, 
+    
+    {
+        "id":5,
+        "name":"bag",
+        "price":70,
+        "image":"https://images-ap-prod.cms.commerce.dynamics.com/cms/api/tstpxgfmq/imageFileData/search?fileName=/Products%2FNCH0129_000_001.jpg"
+    },
+    {
+        "id":6,
+        "name":"Jacket",
+        "price":35,
+        "image":"https://urteb.org/wp-content/uploads/2015/01/jacket2-1.jpg"
+    },
+    {
+        "id":7,
+        "name":"ring",
+        "price":25,
+        "image":"https://www.aniyuzuk.com/925-ayar-gumus-zarif-erkek-yuzuk-tassiz-erkek-yuzukleri-30751-77-B.jpg"
+    },
+    {
+        "id":8,
+        "name":"necklace",
+        "price":90,
+        "image":"https://www.ddiamond.com.tr/resim/urun/ddiamond-tasarim-pirlanta-kolyeler-2800007828-1661492312-1.jpg"
+    }
+    
+]
